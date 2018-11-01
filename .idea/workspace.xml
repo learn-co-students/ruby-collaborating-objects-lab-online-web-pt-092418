@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acb75a4b-bef8-4caf-87cd-376678f4bc4f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.rspec" beforeDir="false" afterPath="$PROJECT_DIR$/.rspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/artist.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/artist.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/mp3_importer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mp3_importer.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/song.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/song.rb" afterDir="false" />
@@ -24,26 +23,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="mp3" value="1" />
-          <entry key="rb" value="5" />
-          <entry key="rspec" value="1" />
+          <entry key="rb" value="7" />
+          <entry key="rspec" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Ruby" value="5" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Ruby" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rb" value="1101" />
+          <entry key="rb" value="1453" />
           <entry key="rspec" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Ruby" value="1101" />
+          <entry key="Ruby" value="1453" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -58,15 +57,19 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/artist.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
-                  <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+                <state relative-caret-position="576">
+                  <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/lib/song.rb">
-              <provider selected="true" editor-type-id="text-editor" />
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="368">
+                  <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+                </state>
+              </provider>
             </entry>
           </file>
         </leaf>
@@ -76,26 +79,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/song.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="182">
-                  <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/lib/mp3_importer.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="570">
-                  <caret line="15" selection-start-line="15" selection-end-line="15" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/spec/mp3_importer_spec.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="537">
-                  <caret line="37" column="46" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="46" />
+                <state relative-caret-position="92">
+                  <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
                 </state>
               </provider>
             </entry>
@@ -110,9 +95,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.rspec" />
         <option value="$PROJECT_DIR$/lib/artist.rb" />
         <option value="$PROJECT_DIR$/lib/mp3_importer.rb" />
+        <option value="$PROJECT_DIR$/.rspec" />
         <option value="$PROJECT_DIR$/lib/song.rb" />
       </list>
     </option>
@@ -124,8 +109,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="582" />
-    <option name="y" value="119" />
+    <option name="x" value="456" />
+    <option name="y" value="141" />
     <option name="width" value="1532" />
     <option name="height" value="1135" />
   </component>
@@ -150,6 +135,19 @@
               <item name="Collaborating" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collaborating" type="462c0819:PsiDirectoryNode" />
               <item name="spec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collaborating" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collaborating" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="fixtures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collaborating" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collaborating" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="fixtures" type="462c0819:PsiDirectoryNode" />
+              <item name="mp3s" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,24 +184,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541085866953</updated>
-      <workItem from="1541085868247" duration="4082000" />
+      <workItem from="1541085868247" duration="6300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4082000" />
+    <option name="totallyTimeSpent" value="6300000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="582" y="119" width="1532" height="1135" extended-state="0" />
-    <editor active="true" />
+    <frame x="456" y="141" width="1532" height="1135" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.45906433" />
+      <window_info active="true" anchor="bottom" x="134" y="243" width="974" height="943" id="Terminal" visible="true" weight="0.37037036" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -246,22 +243,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.rspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/fixtures/mp3s/Action Bronson - Larry Csonka - indie.mp3">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/mp3_importer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/mp3_importer_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
@@ -270,13 +253,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/song.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/artist.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state relative-caret-position="576">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.rspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/mp3_importer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/song.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
